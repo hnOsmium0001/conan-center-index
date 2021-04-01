@@ -1,0 +1,7 @@
+sources:
+  "cci.20200920":
+    url: "https://github.com/thedmd/imgui-node-editor/archive/687a72f940c76cf5064e13fe55fa0408c18fcbe4.tar.gz"
+    sha256: "4f24577b3342047b8b0c74c27ae7a92bcfa20cf5cd8413d49ea2f3beeccb6d8c"
+#  "0.9":
+#    url: "https://github.com/thedmd/imgui-node-editor/archive/refs/tags/v0.9.tar.gz"
+#    sha256: "22dc02fda6dac458dcaf1883dc1781df515e9a2a421082510e72e53a08e77a49"
