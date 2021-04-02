@@ -36,6 +36,7 @@ class ImGuiNodeEditorConan(ConanFile):
             del self.options.fPIC
 
     def configure(self):
+        tools.check_min_cppstd(self, "14")
         if self.options.shared:
             del self.options.fPIC
 

@@ -1,5 +1,7 @@
 cmake_minimum_required(VERSION 3.4)
 project(imgui-node-editor CXX)
+set(CMAKE_CXX_STANDARD 14)
+SET(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 include(conanbuildinfo.cmake)
 conan_basic_setup()
