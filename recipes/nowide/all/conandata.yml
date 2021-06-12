@@ -1,0 +1,8 @@
+sources:
+  "0.0.0_neph-0":
+    url: "https://github.com/nephatrine/nowide-standalone/archive/refs/tags/v0.0.0_neph-0.tar.gz"
+    sha256: "ab666a8244053f93775102e9f743a6aef950c84092d23c49c8b8fad5c35ae6a6"
+patches:
+  "0.0.0_neph-0":
+    - patch_file: "patches/cmake-lists.patch"
+      base_path: "source_subfolder"
